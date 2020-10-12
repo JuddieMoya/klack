@@ -4,4 +4,4 @@ const messageSchema = new Schema({
     message: String,
     timestamp: Number
 })
-export const Message = model(name'Message', messageSchema)
+export const Message = model(`Message`, messageSchema)
