@@ -34,6 +34,6 @@ Enter a nickname at the prompt upon loading the page.
 ![Screenshot of klack client](/screenshot-klack.png)
 
 # Source Code Citing
-Coding Along with Jacob Walker demo on saving Klack messages on MongoDB
-Assistance from Marcus Chiriboga
+1. Coding Along with Jacob Walker demo on saving Klack      messages on MongoDB
+2. Assistance from Marcus Chiriboga
 
